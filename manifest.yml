@@ -1,8 +1,8 @@
 ---
 applications:
-- name: webchatbot
+- name: chatbotyyb
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 2e38d5ef-7506-4e38-804e-e83f3cbe6926
-    CAR_SERVICE_HOST: webchatbotcar.mybluemix.net
+    CONVERSATION_WORKSPACE_ID: 2614bd2a-ce03-400f-8566-eb77ba36d2f8
+    CAR_SERVICE_HOST: chatbot-yyb
